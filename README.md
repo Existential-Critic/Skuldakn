@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- - Fourth Year Computer Science Student [@UBC](https://www.ubc.ca/).
+ - Fourth Year Computer Science Student [@UBC Okanagan](https://ok.ubc.ca/).
  - Proficient in:
    - Python
    - Java
