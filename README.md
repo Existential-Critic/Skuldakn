@@ -7,7 +7,7 @@
  - Learning:
    - HTML5
    - CSS
-   - JS
+   - JavaScript
 
 [![Skuldakn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skuldakn&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
